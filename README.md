@@ -1,4 +1,11 @@
-### Hi there 👋
+### About Me
+
+I'm currently a Research Software Engineer at the Morgridge Institute for Discovery with collaboration with the University of Wisconsin - Madison. 
+
+I'm currently a developer on the [Pelican Platform](https://github.com/PelicanPlatform/pelican).
+
+My interests include machine learning and algorithm development. I'm currently looking to branch out into web-development as well.
+
 
 <!--
 **turetske/turetske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
