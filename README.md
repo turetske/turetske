@@ -1,6 +1,6 @@
 ### About Me
 
-I'm currently a Research Software Engineer at the Morgridge Institute for Discovery with collaboration with the University of Wisconsin - Madison. 
+I'm a Research Software Engineer at the Morgridge Institute for Discovery with collaboration with the University of Wisconsin - Madison. 
 
 I'm currently a developer on the [Pelican Platform](https://github.com/PelicanPlatform/pelican).
 
